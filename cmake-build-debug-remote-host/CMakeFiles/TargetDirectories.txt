@@ -1,0 +1,3 @@
+/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host/CMakeFiles/rebuild_cache.dir
+/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host/CMakeFiles/edit_cache.dir
+/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host/CMakeFiles/main.cpp.dir

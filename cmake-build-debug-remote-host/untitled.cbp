@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="untitled"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main.cpp">
+				<Option output="/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host/main.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 main.cpp"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main.cpp/fast">
+				<Option output="/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host/main.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 main.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.GHtN9KHYC4/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/Automaton.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/ColonDashAutomaton.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/ColonDashAutomaton.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/CommentAutomaton.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/CommentAutomaton.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/Database.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/Database.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/DatalogProgram.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/DatalogProgram.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/FactsAutomaton.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/FactsAutomaton.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/Header.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/Header.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/IDAutomaton.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/IDAutomaton.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/Interpreter.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/Interpreter.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/Lexer.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/Lexer.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/Parameter.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/Parser.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/Parser.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/Predicate.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/Predicate.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/QueriesAutomaton.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/QueriesAutomaton.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/Relation.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/Relation.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/Rule.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/Rule.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/RulesAutomaton.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/RulesAutomaton.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/SchemesAutomaton.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/SchemesAutomaton.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/SingleSymbolAutomaton.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/SingleSymbolAutomaton.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/StringAutomaton.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/StringAutomaton.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/Token.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/Token.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/Tuple.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/Tuple.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/main.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.GHtN9KHYC4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

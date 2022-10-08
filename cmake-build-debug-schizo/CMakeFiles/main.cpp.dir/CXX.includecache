@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/users/guest/a/arotoa/CS236/Project-3/Header.h
+vector
+-
+iostream
+-
+
+/users/guest/a/arotoa/CS236/Project-3/Relation.cpp
+Relation.h
+/users/guest/a/arotoa/CS236/Project-3/Relation.h
+sstream
+-
+
+/users/guest/a/arotoa/CS236/Project-3/Relation.h
+Tuple.h
+/users/guest/a/arotoa/CS236/Project-3/Tuple.h
+Header.h
+/users/guest/a/arotoa/CS236/Project-3/Header.h
+set
+-
+map
+-
+vector
+-
+
+/users/guest/a/arotoa/CS236/Project-3/Tuple.h
+iostream
+-
+vector
+-
+

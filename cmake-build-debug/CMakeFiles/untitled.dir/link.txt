@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled.dir/main.cpp.o CMakeFiles/untitled.dir/ColonAutomaton.cpp.o CMakeFiles/untitled.dir/ColonDashAutomaton.cpp.o CMakeFiles/untitled.dir/Lexer.cpp.o CMakeFiles/untitled.dir/Token.cpp.o  -o untitled 

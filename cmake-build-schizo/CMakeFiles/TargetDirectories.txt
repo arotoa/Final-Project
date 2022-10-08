@@ -1,0 +1,3 @@
+/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo/CMakeFiles/rebuild_cache.dir
+/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo/CMakeFiles/edit_cache.dir
+/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo/CMakeFiles/main.cpp.dir

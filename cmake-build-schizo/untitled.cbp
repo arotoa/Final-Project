@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="untitled"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main.cpp">
+				<Option output="/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo/main.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo/Makefile&quot;  VERBOSE=1 main.cpp"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main.cpp/fast">
+				<Option output="/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo/main.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo/Makefile&quot;  VERBOSE=1 main.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/a/arotoa/CS236/Project-5/cmake-build-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/Automaton.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/ColonDashAutomaton.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/ColonDashAutomaton.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/CommentAutomaton.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/CommentAutomaton.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/Database.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/DatalogProgram.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/DatalogProgram.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/FactsAutomaton.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/FactsAutomaton.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/Graph.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/Graph.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/Header.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/IDAutomaton.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/IDAutomaton.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/Interpreter.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/Interpreter.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/Lexer.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/Lexer.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/Parameter.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/Parser.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/Parser.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/Predicate.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/Predicate.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/QueriesAutomaton.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/QueriesAutomaton.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/Relation.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/Relation.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/Rule.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/Rule.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/RulesAutomaton.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/RulesAutomaton.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/SchemesAutomaton.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/SchemesAutomaton.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/SingleSymbolAutomaton.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/SingleSymbolAutomaton.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/StringAutomaton.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/StringAutomaton.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/Token.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/Token.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/Tuple.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/main.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/users/guest/a/arotoa/CS236/Project-5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
